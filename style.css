@@ -1,0 +1,86 @@
+
+
+.container {
+
+    width: 100%;
+}
+
+header {
+
+    color: black;
+    background-color: white;
+    text-align: center;
+
+}
+
+img{
+
+	position: absolute;
+	left:350pt;
+	top:12pt;
+	width:10%;
+	height:10%;
+}
+
+
+nav {
+
+    float: left;
+    max-width: 160px;
+    line-height: 1.5;
+    padding: 4em;
+}
+
+nav ul {
+
+    list-style-type: circle;
+    padding: 1em;
+
+}
+   
+nav ul a {
+
+    text-decoration: none;
+}
+
+article{
+
+    border-left: 0px solid black;
+    padding: 4em;
+}
+
+.serial, th ,td{
+
+	border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+
+}
+
+.serial {
+
+	width:100%;
+}
+
+th {
+
+	text-align:center;
+}
+
+td {
+
+	text-align: left;
+}
+
+li{
+
+	list-style-type: square;
+	line-height: 1.5;
+
+}
+
+.list-circle{
+    
+	list-style-type: circle;
+	line-height: 1.5;
+}
